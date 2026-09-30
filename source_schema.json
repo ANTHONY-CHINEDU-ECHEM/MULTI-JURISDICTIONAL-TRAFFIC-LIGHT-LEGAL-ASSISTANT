@@ -1,0 +1,163 @@
+{
+  "source_url": "https://mctrans.ce.ufl.edu/integrate%2Dhcs%2Dsignal%2Danalyses%2Dwith%2Dexcel%2Dfor%2Defficient%2Dtraffic%2Dstudies/",
+  "source_title": "Integrating HCS Signal Analyses with Excel for Efficient Traffic Studies",
+  "retrieved": "offline snapshot, verified against the live article on 2026/09/30",
+  "scenario_years": [
+    2023,
+    2030,
+    2035
+  ],
+  "parameter_mapping": [
+    {
+      "group": "Intersection geometry",
+      "parameter": "number of lanes",
+      "columns": [
+        "num_lanes"
+      ]
+    },
+    {
+      "group": "Intersection geometry",
+      "parameter": "lane width",
+      "columns": [
+        "lane_width_ft"
+      ]
+    },
+    {
+      "group": "Intersection geometry",
+      "parameter": "storage length",
+      "columns": [
+        "storage_length_ft"
+      ]
+    },
+    {
+      "group": "Intersection geometry",
+      "parameter": "grade %",
+      "columns": [
+        "grade_direction",
+        "grade_pct"
+      ]
+    },
+    {
+      "group": "Traffic",
+      "parameter": "vehicular demand",
+      "columns": [
+        "demand_vph"
+      ]
+    },
+    {
+      "group": "Traffic",
+      "parameter": "heavy vehicles %",
+      "columns": [
+        "heavy_vehicle_pct"
+      ]
+    },
+    {
+      "group": "Traffic",
+      "parameter": "bicycles",
+      "columns": [
+        "bicycles_vph"
+      ]
+    },
+    {
+      "group": "Traffic",
+      "parameter": "buses",
+      "columns": [
+        "buses_per_hr"
+      ]
+    },
+    {
+      "group": "Traffic",
+      "parameter": "peak hour factor",
+      "columns": [
+        "peak_hour_factor"
+      ]
+    },
+    {
+      "group": "Signal controller settings",
+      "parameter": "cycle length",
+      "columns": [
+        "cycle_length_s"
+      ]
+    },
+    {
+      "group": "Signal controller settings",
+      "parameter": "control type (pretimed/actuated/coordinated)",
+      "columns": [
+        "control_type"
+      ]
+    },
+    {
+      "group": "Signal controller settings",
+      "parameter": "offsets",
+      "columns": [
+        "offset_s"
+      ]
+    },
+    {
+      "group": "Signal controller settings",
+      "parameter": "phase splits",
+      "columns": [
+        "green_s",
+        "split_s"
+      ]
+    },
+    {
+      "group": "Signal controller settings",
+      "parameter": "red/yellow intervals",
+      "columns": [
+        "red_clearance_s",
+        "yellow_s"
+      ]
+    },
+    {
+      "group": "Signal controller settings",
+      "parameter": "minimum green",
+      "columns": [
+        "min_green_s"
+      ]
+    },
+    {
+      "group": "Signal controller settings",
+      "parameter": "passage time",
+      "columns": [
+        "passage_time_s"
+      ]
+    },
+    {
+      "group": "Signal controller settings",
+      "parameter": "and more",
+      "columns": []
+    },
+    {
+      "group": "Performance measures",
+      "parameter": "volume to capacity ratio",
+      "columns": [
+        "capacity_vph",
+        "saturation_flow_vph",
+        "vc_ratio"
+      ]
+    },
+    {
+      "group": "Performance measures",
+      "parameter": "control delay",
+      "columns": [
+        "control_delay_s"
+      ]
+    },
+    {
+      "group": "Performance measures",
+      "parameter": "LOS",
+      "columns": [
+        "los"
+      ]
+    },
+    {
+      "group": "Performance measures",
+      "parameter": "and queue storage ratios",
+      "columns": [
+        "back_of_queue_ft",
+        "queue_storage_ratio"
+      ]
+    }
+  ]
+}

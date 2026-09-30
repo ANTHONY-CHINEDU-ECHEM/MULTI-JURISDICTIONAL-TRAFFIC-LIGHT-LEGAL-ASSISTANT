@@ -1,0 +1,21 @@
+{
+  "description": "Registry of static knowledge documents. Generated state and local policy documents are discovered automatically from knowledge/state and knowledge/local.",
+  "documents": [
+    {
+      "doc_id": "MUTCD11",
+      "title": "Manual on Uniform Traffic Control Devices for Streets and Highways, 11th Edition (December 2023)",
+      "tier": "FEDERAL",
+      "citation": "MUTCD 11th Edition",
+      "path": "federal/mutcd_11th_edition.pdf",
+      "parser": "mutcd"
+    },
+    {
+      "doc_id": "NEMA_TS2",
+      "title": "NEMA Standards Publication TS 2 2021, Traffic Controller Assemblies with NTCIP Requirements, Version 03.08 (contents and scope)",
+      "tier": "HARDWARE",
+      "citation": "NEMA TS 2 2021",
+      "path": "hardware/nema_ts2_2021_contents_and_scope.pdf",
+      "parser": "nema"
+    }
+  ]
+}

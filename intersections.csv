@@ -1,0 +1,171 @@
+intersection_id,intersection_name,corridor,state_code,jurisdiction_code,jurisdiction_name,control_type,controller_standard,controller_id,timing_practice,area_type,major_posted_speed_mph,minor_posted_speed_mph,annual_growth_rate
+INT0001,Industrial Parkway and Pine Avenue,Industrial Parkway,KS,NGT,City of Northgate,Actuated,NEMA TS2 Type 1,CTL0001,ITE_KINEMATIC,Other,40.0000,25.0000,0.0190
+INT0002,Oak Hill Parkway and 3rd Avenue,Oak Hill Parkway,KS,MLB,Village of Millbrook,Actuated,NEMA TS2 Type 1,CTL0002,ITE_KINEMATIC,Other,35.0000,40.0000,0.0171
+INT0003,Airport Boulevard and Walnut Street,Airport Boulevard,AV,RIV,City of Riverbend,Actuated,NEMA TS2 Type 1,CTL0003,ITE_POSTED_ONLY,Other,45.0000,35.0000,0.0224
+INT0004,Industrial Parkway and Walnut Street,Industrial Parkway,AV,HBP,Town of Harbor Point,Coordinated,ATC 5201,CTL0004,LEGACY_FLAT,CBD,40.0000,40.0000,0.0190
+INT0005,Meridian Road and Church Street,Meridian Road,KS,NGT,City of Northgate,Coordinated,NEMA TS2 Type 2,CTL0005,ITE_KINEMATIC,CBD,45.0000,25.0000,0.0059
+INT0006,University Drive and 1st Street,University Drive,KS,STB,City of Stonebridge,Coordinated,NEMA TS2 Type 2,CTL0006,ITE_POSTED_ONLY,Other,40.0000,40.0000,0.0169
+INT0007,Lakeview Avenue and Park Road,Lakeview Avenue,KS,MLB,Village of Millbrook,Coordinated,ATC 5201,CTL0007,ITE_KINEMATIC,CBD,45.0000,40.0000,0.0082
+INT0008,Central Avenue and Willow Way,Central Avenue,AV,RIV,City of Riverbend,Coordinated,NEMA TS2 Type 2,CTL0008,ITE_KINEMATIC,Other,55.0000,30.0000,0.0168
+INT0009,Station Avenue and Church Street,Station Avenue,AV,CDF,City of Cedar Falls,Actuated,NEMA TS2 Type 1,CTL0009,ITE_KINEMATIC,Other,50.0000,40.0000,0.0050
+INT0010,Veterans Highway and Cedar Lane,Veterans Highway,AV,CDF,City of Cedar Falls,Coordinated,NEMA TS2 Type 2,CTL0010,LEGACY_FLAT,CBD,50.0000,35.0000,0.0141
+INT0011,Veterans Highway and Church Street,Veterans Highway,KS,NGT,City of Northgate,Coordinated,NEMA TS2 Type 1,CTL0011,LEGACY_FLAT,CBD,45.0000,35.0000,0.0133
+INT0012,Kingsway and Hillcrest Road,Kingsway,AV,RIV,City of Riverbend,Actuated,NEMA TS2 Type 1,CTL0012,ITE_KINEMATIC,Other,40.0000,35.0000,0.0143
+INT0013,Meridian Road and Pine Avenue,Meridian Road,KS,NGT,City of Northgate,Coordinated,NEMA TS2 Type 2,CTL0013,ITE_KINEMATIC,Other,55.0000,25.0000,0.0142
+INT0014,Airport Boulevard and Pine Avenue,Airport Boulevard,AV,HBP,Town of Harbor Point,Pretimed,NEMA TS2 Type 2,CTL0014,ITE_KINEMATIC,Other,35.0000,25.0000,0.0219
+INT0015,Industrial Parkway and 3rd Avenue,Industrial Parkway,KS,STB,City of Stonebridge,Pretimed,NEMA TS2 Type 2,CTL0015,ITE_KINEMATIC,Other,35.0000,25.0000,0.0144
+INT0016,Central Avenue and 3rd Avenue,Central Avenue,AV,CDF,City of Cedar Falls,Coordinated,NEMA TS2 Type 1,CTL0016,ITE_POSTED_ONLY,Other,45.0000,40.0000,0.0222
+INT0017,Industrial Parkway and Pine Avenue,Industrial Parkway,AV,HBP,Town of Harbor Point,Actuated,NEMA TS2 Type 1,CTL0017,LEGACY_FLAT,Other,55.0000,35.0000,0.0175
+INT0018,Market Street and Church Street,Market Street,AV,CDF,City of Cedar Falls,Actuated,ATC 5201,CTL0018,LEGACY_FLAT,CBD,55.0000,25.0000,0.0174
+INT0019,Harbor Road and Grove Street,Harbor Road,AV,RIV,City of Riverbend,Coordinated,ATC 5201,CTL0019,LEGACY_FLAT,CBD,35.0000,30.0000,0.0114
+INT0020,Market Street and Hillcrest Road,Market Street,KS,NGT,City of Northgate,Pretimed,NEMA TS2 Type 2,CTL0020,ITE_KINEMATIC,Other,45.0000,25.0000,0.0124
+INT0021,Station Avenue and Cedar Lane,Station Avenue,KS,STB,City of Stonebridge,Coordinated,NEMA TS2 Type 1,CTL0021,ITE_POSTED_ONLY,CBD,50.0000,30.0000,0.0223
+INT0022,Central Avenue and Park Road,Central Avenue,AV,CDF,City of Cedar Falls,Actuated,NEMA TS2 Type 2,CTL0022,ITE_KINEMATIC,Other,55.0000,30.0000,0.0236
+INT0023,Commerce Boulevard and Cedar Lane,Commerce Boulevard,KS,STB,City of Stonebridge,Actuated,ATC 5201,CTL0023,ITE_POSTED_ONLY,CBD,35.0000,30.0000,0.0164
+INT0024,Riverside Drive and Willow Way,Riverside Drive,KS,STB,City of Stonebridge,Coordinated,NEMA TS2 Type 2,CTL0024,ITE_KINEMATIC,Other,40.0000,30.0000,0.0125
+INT0025,Industrial Parkway and Maple Avenue,Industrial Parkway,KS,STB,City of Stonebridge,Pretimed,NEMA TS2 Type 2,CTL0025,ITE_KINEMATIC,Other,45.0000,25.0000,0.0242
+INT0026,Station Avenue and Pine Avenue,Station Avenue,KS,STB,City of Stonebridge,Coordinated,ATC 5201,CTL0026,ITE_KINEMATIC,Other,40.0000,30.0000,0.0245
+INT0027,Industrial Parkway and Maple Avenue,Industrial Parkway,AV,CDF,City of Cedar Falls,Pretimed,NEMA TS2 Type 1,CTL0027,ITE_KINEMATIC,Other,40.0000,35.0000,0.0128
+INT0028,Veterans Highway and Pine Avenue,Veterans Highway,AV,RIV,City of Riverbend,Coordinated,ATC 5201,CTL0028,ITE_POSTED_ONLY,Other,35.0000,25.0000,0.0230
+INT0029,Lakeview Avenue and Birch Street,Lakeview Avenue,AV,RIV,City of Riverbend,Actuated,ATC 5201,CTL0029,ITE_KINEMATIC,Other,45.0000,30.0000,0.0087
+INT0030,University Drive and Church Street,University Drive,AV,RIV,City of Riverbend,Coordinated,NEMA TS2 Type 2,CTL0030,LEGACY_FLAT,Other,35.0000,35.0000,0.0201
+INT0031,Meridian Road and Park Road,Meridian Road,AV,RIV,City of Riverbend,Pretimed,ATC 5201,CTL0031,LEGACY_FLAT,Other,45.0000,40.0000,0.0117
+INT0032,Lakeview Avenue and Church Street,Lakeview Avenue,KS,MLB,Village of Millbrook,Actuated,NEMA TS2 Type 2,CTL0032,ITE_POSTED_ONLY,CBD,35.0000,30.0000,0.0161
+INT0033,Lakeview Avenue and 2nd Street,Lakeview Avenue,KS,STB,City of Stonebridge,Actuated,NEMA TS2 Type 1,CTL0033,ITE_KINEMATIC,Other,55.0000,35.0000,0.0063
+INT0034,University Drive and Grove Street,University Drive,AV,RIV,City of Riverbend,Coordinated,NEMA TS2 Type 2,CTL0034,ITE_KINEMATIC,Other,45.0000,35.0000,0.0157
+INT0035,Industrial Parkway and Mill Street,Industrial Parkway,KS,STB,City of Stonebridge,Actuated,NEMA TS2 Type 1,CTL0035,LEGACY_FLAT,Other,45.0000,30.0000,0.0211
+INT0036,Central Avenue and Church Street,Central Avenue,KS,STB,City of Stonebridge,Coordinated,NEMA TS2 Type 1,CTL0036,ITE_KINEMATIC,Other,50.0000,25.0000,0.0118
+INT0037,Harbor Road and Mill Street,Harbor Road,AV,CDF,City of Cedar Falls,Actuated,NEMA TS2 Type 2,CTL0037,ITE_KINEMATIC,CBD,40.0000,35.0000,0.0233
+INT0038,Meridian Road and Park Road,Meridian Road,KS,NGT,City of Northgate,Actuated,ATC 5201,CTL0038,ITE_KINEMATIC,CBD,50.0000,30.0000,0.0226
+INT0039,Kingsway and Forest Avenue,Kingsway,AV,HBP,Town of Harbor Point,Coordinated,NEMA TS2 Type 2,CTL0039,ITE_POSTED_ONLY,Other,35.0000,35.0000,0.0249
+INT0040,Main Street and 3rd Avenue,Main Street,AV,HBP,Town of Harbor Point,Coordinated,NEMA TS2 Type 2,CTL0040,ITE_KINEMATIC,CBD,45.0000,40.0000,0.0190
+INT0041,Veterans Highway and School Street,Veterans Highway,KS,MLB,Village of Millbrook,Actuated,NEMA TS2 Type 1,CTL0041,ITE_KINEMATIC,CBD,50.0000,35.0000,0.0143
+INT0042,Veterans Highway and Hillcrest Road,Veterans Highway,KS,STB,City of Stonebridge,Coordinated,NEMA TS2 Type 1,CTL0042,LEGACY_FLAT,CBD,35.0000,25.0000,0.0124
+INT0043,University Drive and 1st Street,University Drive,KS,NGT,City of Northgate,Actuated,ATC 5201,CTL0043,ITE_KINEMATIC,CBD,40.0000,25.0000,0.0209
+INT0044,Airport Boulevard and Pine Avenue,Airport Boulevard,AV,HBP,Town of Harbor Point,Pretimed,ATC 5201,CTL0044,ITE_KINEMATIC,CBD,50.0000,40.0000,0.0135
+INT0045,Lakeview Avenue and Birch Street,Lakeview Avenue,KS,STB,City of Stonebridge,Coordinated,ATC 5201,CTL0045,ITE_KINEMATIC,CBD,45.0000,25.0000,0.0144
+INT0046,Harbor Road and 1st Street,Harbor Road,KS,MLB,Village of Millbrook,Actuated,NEMA TS2 Type 1,CTL0046,ITE_KINEMATIC,Other,45.0000,35.0000,0.0087
+INT0047,Veterans Highway and Pine Avenue,Veterans Highway,AV,RIV,City of Riverbend,Coordinated,NEMA TS2 Type 1,CTL0047,ITE_POSTED_ONLY,Other,45.0000,35.0000,0.0146
+INT0048,Meridian Road and Maple Avenue,Meridian Road,AV,HBP,Town of Harbor Point,Coordinated,NEMA TS2 Type 1,CTL0048,LEGACY_FLAT,Other,45.0000,25.0000,0.0067
+INT0049,Oak Hill Parkway and Pine Avenue,Oak Hill Parkway,AV,CDF,City of Cedar Falls,Coordinated,NEMA TS2 Type 2,CTL0049,LEGACY_FLAT,CBD,40.0000,30.0000,0.0184
+INT0050,Harbor Road and Hillcrest Road,Harbor Road,KS,MLB,Village of Millbrook,Actuated,ATC 5201,CTL0050,ITE_POSTED_ONLY,Other,40.0000,25.0000,0.0248
+INT0051,Market Street and Pine Avenue,Market Street,AV,RIV,City of Riverbend,Actuated,NEMA TS2 Type 2,CTL0051,ITE_KINEMATIC,Other,55.0000,25.0000,0.0245
+INT0052,Commerce Boulevard and Ash Road,Commerce Boulevard,KS,MLB,Village of Millbrook,Coordinated,NEMA TS2 Type 1,CTL0052,ITE_KINEMATIC,Other,45.0000,35.0000,0.0094
+INT0053,Station Avenue and Elm Street,Station Avenue,AV,RIV,City of Riverbend,Actuated,NEMA TS2 Type 1,CTL0053,ITE_KINEMATIC,Other,40.0000,25.0000,0.0156
+INT0054,Riverside Drive and Willow Way,Riverside Drive,KS,STB,City of Stonebridge,Actuated,ATC 5201,CTL0054,LEGACY_FLAT,Other,40.0000,25.0000,0.0178
+INT0055,Lakeview Avenue and Church Street,Lakeview Avenue,AV,HBP,Town of Harbor Point,Pretimed,NEMA TS2 Type 1,CTL0055,ITE_KINEMATIC,Other,50.0000,40.0000,0.0088
+INT0056,Riverside Drive and Elm Street,Riverside Drive,KS,NGT,City of Northgate,Coordinated,ATC 5201,CTL0056,ITE_POSTED_ONLY,Other,50.0000,35.0000,0.0184
+INT0057,Kingsway and Church Street,Kingsway,AV,CDF,City of Cedar Falls,Pretimed,NEMA TS2 Type 2,CTL0057,ITE_KINEMATIC,Other,35.0000,30.0000,0.0165
+INT0058,Industrial Parkway and Hillcrest Road,Industrial Parkway,KS,MLB,Village of Millbrook,Actuated,ATC 5201,CTL0058,ITE_KINEMATIC,Other,45.0000,30.0000,0.0114
+INT0059,Meridian Road and Mill Street,Meridian Road,KS,NGT,City of Northgate,Actuated,ATC 5201,CTL0059,ITE_KINEMATIC,CBD,55.0000,30.0000,0.0159
+INT0060,Industrial Parkway and Grove Street,Industrial Parkway,KS,STB,City of Stonebridge,Pretimed,ATC 5201,CTL0060,ITE_KINEMATIC,Other,50.0000,40.0000,0.0243
+INT0061,Harbor Road and Mill Street,Harbor Road,AV,RIV,City of Riverbend,Coordinated,NEMA TS2 Type 2,CTL0061,ITE_KINEMATIC,CBD,50.0000,30.0000,0.0214
+INT0062,Oak Hill Parkway and Willow Way,Oak Hill Parkway,KS,NGT,City of Northgate,Coordinated,NEMA TS2 Type 1,CTL0062,ITE_KINEMATIC,CBD,50.0000,30.0000,0.0180
+INT0063,Station Avenue and Pine Avenue,Station Avenue,KS,NGT,City of Northgate,Coordinated,NEMA TS2 Type 1,CTL0063,LEGACY_FLAT,CBD,45.0000,40.0000,0.0170
+INT0064,Commerce Boulevard and Hillcrest Road,Commerce Boulevard,AV,RIV,City of Riverbend,Actuated,ATC 5201,CTL0064,ITE_KINEMATIC,Other,45.0000,35.0000,0.0136
+INT0065,Riverside Drive and Park Road,Riverside Drive,AV,RIV,City of Riverbend,Actuated,NEMA TS2 Type 2,CTL0065,ITE_KINEMATIC,Other,40.0000,25.0000,0.0130
+INT0066,Veterans Highway and 1st Street,Veterans Highway,AV,RIV,City of Riverbend,Coordinated,NEMA TS2 Type 1,CTL0066,ITE_KINEMATIC,Other,45.0000,40.0000,0.0076
+INT0067,Station Avenue and 1st Street,Station Avenue,AV,RIV,City of Riverbend,Coordinated,NEMA TS2 Type 2,CTL0067,ITE_KINEMATIC,Other,45.0000,35.0000,0.0152
+INT0068,Lakeview Avenue and Willow Way,Lakeview Avenue,KS,STB,City of Stonebridge,Coordinated,NEMA TS2 Type 2,CTL0068,ITE_KINEMATIC,Other,55.0000,30.0000,0.0248
+INT0069,Kingsway and Birch Street,Kingsway,AV,RIV,City of Riverbend,Pretimed,NEMA TS2 Type 2,CTL0069,ITE_KINEMATIC,CBD,50.0000,25.0000,0.0228
+INT0070,Main Street and 1st Street,Main Street,KS,NGT,City of Northgate,Coordinated,NEMA TS2 Type 1,CTL0070,ITE_KINEMATIC,Other,50.0000,25.0000,0.0064
+INT0071,Commerce Boulevard and Walnut Street,Commerce Boulevard,AV,RIV,City of Riverbend,Actuated,NEMA TS2 Type 1,CTL0071,ITE_KINEMATIC,Other,35.0000,30.0000,0.0113
+INT0072,Airport Boulevard and Maple Avenue,Airport Boulevard,AV,RIV,City of Riverbend,Actuated,ATC 5201,CTL0072,ITE_POSTED_ONLY,Other,50.0000,40.0000,0.0158
+INT0073,Central Avenue and 2nd Street,Central Avenue,KS,STB,City of Stonebridge,Coordinated,NEMA TS2 Type 2,CTL0073,ITE_KINEMATIC,Other,40.0000,30.0000,0.0127
+INT0074,Lakeview Avenue and Mill Street,Lakeview Avenue,AV,CDF,City of Cedar Falls,Coordinated,NEMA TS2 Type 1,CTL0074,ITE_KINEMATIC,Other,50.0000,30.0000,0.0052
+INT0075,Oak Hill Parkway and Maple Avenue,Oak Hill Parkway,AV,CDF,City of Cedar Falls,Coordinated,NEMA TS2 Type 2,CTL0075,ITE_KINEMATIC,Other,45.0000,30.0000,0.0062
+INT0076,University Drive and Elm Street,University Drive,KS,NGT,City of Northgate,Pretimed,NEMA TS2 Type 2,CTL0076,ITE_POSTED_ONLY,Other,40.0000,35.0000,0.0167
+INT0077,Airport Boulevard and Forest Avenue,Airport Boulevard,AV,RIV,City of Riverbend,Pretimed,NEMA TS2 Type 2,CTL0077,LEGACY_FLAT,Other,35.0000,25.0000,0.0074
+INT0078,Station Avenue and Hillcrest Road,Station Avenue,KS,NGT,City of Northgate,Actuated,ATC 5201,CTL0078,LEGACY_FLAT,CBD,45.0000,35.0000,0.0167
+INT0079,Kingsway and Mill Street,Kingsway,AV,CDF,City of Cedar Falls,Coordinated,NEMA TS2 Type 2,CTL0079,ITE_POSTED_ONLY,Other,35.0000,25.0000,0.0085
+INT0080,Harbor Road and Grove Street,Harbor Road,AV,HBP,Town of Harbor Point,Actuated,NEMA TS2 Type 1,CTL0080,ITE_POSTED_ONLY,Other,45.0000,35.0000,0.0100
+INT0081,Station Avenue and Park Road,Station Avenue,KS,NGT,City of Northgate,Pretimed,ATC 5201,CTL0081,ITE_KINEMATIC,CBD,55.0000,40.0000,0.0087
+INT0082,Commerce Boulevard and Hillcrest Road,Commerce Boulevard,KS,STB,City of Stonebridge,Coordinated,NEMA TS2 Type 1,CTL0082,ITE_KINEMATIC,Other,50.0000,35.0000,0.0239
+INT0083,Station Avenue and Grove Street,Station Avenue,KS,MLB,Village of Millbrook,Pretimed,NEMA TS2 Type 1,CTL0083,ITE_KINEMATIC,Other,50.0000,30.0000,0.0112
+INT0084,Main Street and Maple Avenue,Main Street,AV,HBP,Town of Harbor Point,Coordinated,ATC 5201,CTL0084,LEGACY_FLAT,Other,35.0000,30.0000,0.0191
+INT0085,Industrial Parkway and Forest Avenue,Industrial Parkway,AV,HBP,Town of Harbor Point,Pretimed,NEMA TS2 Type 1,CTL0085,ITE_POSTED_ONLY,CBD,55.0000,30.0000,0.0142
+INT0086,Station Avenue and Walnut Street,Station Avenue,AV,CDF,City of Cedar Falls,Coordinated,NEMA TS2 Type 1,CTL0086,ITE_KINEMATIC,Other,45.0000,35.0000,0.0176
+INT0087,Lakeview Avenue and Willow Way,Lakeview Avenue,KS,NGT,City of Northgate,Pretimed,NEMA TS2 Type 2,CTL0087,ITE_KINEMATIC,Other,55.0000,35.0000,0.0192
+INT0088,Market Street and Walnut Street,Market Street,AV,CDF,City of Cedar Falls,Actuated,NEMA TS2 Type 1,CTL0088,ITE_KINEMATIC,Other,45.0000,30.0000,0.0153
+INT0089,Main Street and Cedar Lane,Main Street,AV,RIV,City of Riverbend,Actuated,ATC 5201,CTL0089,ITE_KINEMATIC,Other,35.0000,30.0000,0.0169
+INT0090,Industrial Parkway and Hillcrest Road,Industrial Parkway,KS,STB,City of Stonebridge,Pretimed,NEMA TS2 Type 2,CTL0090,ITE_KINEMATIC,Other,50.0000,35.0000,0.0098
+INT0091,Commerce Boulevard and Walnut Street,Commerce Boulevard,AV,CDF,City of Cedar Falls,Pretimed,NEMA TS2 Type 1,CTL0091,ITE_KINEMATIC,Other,45.0000,40.0000,0.0166
+INT0092,Central Avenue and Walnut Street,Central Avenue,KS,MLB,Village of Millbrook,Coordinated,NEMA TS2 Type 1,CTL0092,LEGACY_FLAT,Other,45.0000,30.0000,0.0213
+INT0093,Airport Boulevard and 1st Street,Airport Boulevard,KS,NGT,City of Northgate,Actuated,NEMA TS2 Type 1,CTL0093,ITE_KINEMATIC,CBD,40.0000,30.0000,0.0157
+INT0094,Central Avenue and 2nd Street,Central Avenue,KS,MLB,Village of Millbrook,Actuated,NEMA TS2 Type 2,CTL0094,ITE_KINEMATIC,Other,45.0000,40.0000,0.0155
+INT0095,Harbor Road and 1st Street,Harbor Road,KS,STB,City of Stonebridge,Actuated,NEMA TS2 Type 2,CTL0095,LEGACY_FLAT,Other,55.0000,25.0000,0.0217
+INT0096,Kingsway and 3rd Avenue,Kingsway,AV,HBP,Town of Harbor Point,Actuated,NEMA TS2 Type 2,CTL0096,ITE_KINEMATIC,Other,40.0000,30.0000,0.0058
+INT0097,Market Street and Grove Street,Market Street,KS,MLB,Village of Millbrook,Pretimed,ATC 5201,CTL0097,ITE_POSTED_ONLY,CBD,35.0000,30.0000,0.0210
+INT0098,Central Avenue and Church Street,Central Avenue,AV,RIV,City of Riverbend,Coordinated,NEMA TS2 Type 1,CTL0098,ITE_KINEMATIC,CBD,50.0000,40.0000,0.0104
+INT0099,Meridian Road and Elm Street,Meridian Road,AV,CDF,City of Cedar Falls,Coordinated,ATC 5201,CTL0099,ITE_KINEMATIC,Other,45.0000,35.0000,0.0107
+INT0100,University Drive and Elm Street,University Drive,AV,RIV,City of Riverbend,Coordinated,NEMA TS2 Type 1,CTL0100,ITE_KINEMATIC,Other,35.0000,30.0000,0.0217
+INT0101,Lakeview Avenue and Hillcrest Road,Lakeview Avenue,KS,STB,City of Stonebridge,Coordinated,ATC 5201,CTL0101,ITE_KINEMATIC,Other,35.0000,35.0000,0.0157
+INT0102,Meridian Road and Cedar Lane,Meridian Road,AV,HBP,Town of Harbor Point,Coordinated,NEMA TS2 Type 1,CTL0102,LEGACY_FLAT,CBD,55.0000,40.0000,0.0088
+INT0103,Station Avenue and Church Street,Station Avenue,KS,STB,City of Stonebridge,Pretimed,NEMA TS2 Type 1,CTL0103,ITE_KINEMATIC,Other,45.0000,25.0000,0.0071
+INT0104,Station Avenue and Forest Avenue,Station Avenue,KS,STB,City of Stonebridge,Actuated,NEMA TS2 Type 1,CTL0104,ITE_POSTED_ONLY,Other,50.0000,35.0000,0.0165
+INT0105,Meridian Road and Walnut Street,Meridian Road,KS,STB,City of Stonebridge,Actuated,NEMA TS2 Type 1,CTL0105,LEGACY_FLAT,Other,50.0000,35.0000,0.0085
+INT0106,Riverside Drive and Elm Street,Riverside Drive,AV,CDF,City of Cedar Falls,Coordinated,NEMA TS2 Type 2,CTL0106,LEGACY_FLAT,Other,35.0000,30.0000,0.0203
+INT0107,University Drive and Ash Road,University Drive,KS,MLB,Village of Millbrook,Actuated,NEMA TS2 Type 2,CTL0107,ITE_KINEMATIC,CBD,40.0000,25.0000,0.0126
+INT0108,Commerce Boulevard and Walnut Street,Commerce Boulevard,KS,STB,City of Stonebridge,Actuated,NEMA TS2 Type 2,CTL0108,ITE_KINEMATIC,CBD,55.0000,30.0000,0.0067
+INT0109,Commerce Boulevard and 1st Street,Commerce Boulevard,KS,NGT,City of Northgate,Coordinated,NEMA TS2 Type 1,CTL0109,ITE_KINEMATIC,Other,35.0000,25.0000,0.0175
+INT0110,Market Street and Forest Avenue,Market Street,KS,STB,City of Stonebridge,Actuated,NEMA TS2 Type 2,CTL0110,ITE_KINEMATIC,Other,45.0000,25.0000,0.0069
+INT0111,Airport Boulevard and 2nd Street,Airport Boulevard,AV,HBP,Town of Harbor Point,Coordinated,NEMA TS2 Type 1,CTL0111,LEGACY_FLAT,Other,50.0000,40.0000,0.0077
+INT0112,Lakeview Avenue and Grove Street,Lakeview Avenue,AV,CDF,City of Cedar Falls,Coordinated,NEMA TS2 Type 1,CTL0112,ITE_KINEMATIC,Other,45.0000,30.0000,0.0206
+INT0113,Riverside Drive and 3rd Avenue,Riverside Drive,KS,NGT,City of Northgate,Actuated,ATC 5201,CTL0113,LEGACY_FLAT,CBD,35.0000,35.0000,0.0073
+INT0114,Airport Boulevard and Walnut Street,Airport Boulevard,KS,STB,City of Stonebridge,Coordinated,NEMA TS2 Type 1,CTL0114,ITE_POSTED_ONLY,Other,50.0000,25.0000,0.0231
+INT0115,Oak Hill Parkway and School Street,Oak Hill Parkway,AV,CDF,City of Cedar Falls,Pretimed,NEMA TS2 Type 2,CTL0115,LEGACY_FLAT,Other,50.0000,35.0000,0.0206
+INT0116,Market Street and Park Road,Market Street,KS,STB,City of Stonebridge,Coordinated,ATC 5201,CTL0116,ITE_KINEMATIC,Other,45.0000,30.0000,0.0135
+INT0117,University Drive and Birch Street,University Drive,AV,HBP,Town of Harbor Point,Coordinated,ATC 5201,CTL0117,ITE_KINEMATIC,CBD,50.0000,35.0000,0.0082
+INT0118,Industrial Parkway and Pine Avenue,Industrial Parkway,KS,NGT,City of Northgate,Coordinated,ATC 5201,CTL0118,ITE_POSTED_ONLY,Other,40.0000,40.0000,0.0060
+INT0119,Main Street and School Street,Main Street,KS,MLB,Village of Millbrook,Coordinated,NEMA TS2 Type 2,CTL0119,LEGACY_FLAT,Other,40.0000,30.0000,0.0119
+INT0120,University Drive and Willow Way,University Drive,KS,MLB,Village of Millbrook,Actuated,NEMA TS2 Type 2,CTL0120,ITE_KINEMATIC,Other,40.0000,25.0000,0.0165
+INT0121,Meridian Road and Church Street,Meridian Road,AV,HBP,Town of Harbor Point,Coordinated,NEMA TS2 Type 1,CTL0121,ITE_KINEMATIC,Other,55.0000,25.0000,0.0154
+INT0122,Riverside Drive and Ash Road,Riverside Drive,AV,CDF,City of Cedar Falls,Coordinated,NEMA TS2 Type 2,CTL0122,ITE_POSTED_ONLY,CBD,40.0000,30.0000,0.0056
+INT0123,Commerce Boulevard and Willow Way,Commerce Boulevard,AV,CDF,City of Cedar Falls,Actuated,NEMA TS2 Type 2,CTL0123,ITE_POSTED_ONLY,Other,35.0000,35.0000,0.0086
+INT0124,Veterans Highway and Grove Street,Veterans Highway,AV,RIV,City of Riverbend,Coordinated,NEMA TS2 Type 1,CTL0124,ITE_KINEMATIC,Other,50.0000,40.0000,0.0241
+INT0125,University Drive and Walnut Street,University Drive,KS,MLB,Village of Millbrook,Actuated,NEMA TS2 Type 1,CTL0125,ITE_KINEMATIC,Other,40.0000,35.0000,0.0106
+INT0126,Veterans Highway and Hillcrest Road,Veterans Highway,KS,NGT,City of Northgate,Actuated,ATC 5201,CTL0126,ITE_KINEMATIC,Other,40.0000,35.0000,0.0246
+INT0127,Main Street and Forest Avenue,Main Street,AV,RIV,City of Riverbend,Actuated,NEMA TS2 Type 2,CTL0127,ITE_KINEMATIC,Other,45.0000,30.0000,0.0246
+INT0128,Kingsway and Elm Street,Kingsway,KS,NGT,City of Northgate,Coordinated,ATC 5201,CTL0128,ITE_KINEMATIC,Other,35.0000,30.0000,0.0179
+INT0129,Central Avenue and Birch Street,Central Avenue,AV,HBP,Town of Harbor Point,Actuated,ATC 5201,CTL0129,LEGACY_FLAT,Other,50.0000,30.0000,0.0242
+INT0130,Station Avenue and Grove Street,Station Avenue,AV,CDF,City of Cedar Falls,Pretimed,NEMA TS2 Type 1,CTL0130,LEGACY_FLAT,Other,40.0000,35.0000,0.0194
+INT0131,Central Avenue and Pine Avenue,Central Avenue,AV,CDF,City of Cedar Falls,Actuated,NEMA TS2 Type 2,CTL0131,ITE_KINEMATIC,Other,40.0000,35.0000,0.0207
+INT0132,University Drive and Birch Street,University Drive,KS,STB,City of Stonebridge,Coordinated,NEMA TS2 Type 1,CTL0132,LEGACY_FLAT,Other,50.0000,35.0000,0.0106
+INT0133,Central Avenue and Walnut Street,Central Avenue,KS,NGT,City of Northgate,Pretimed,NEMA TS2 Type 1,CTL0133,ITE_KINEMATIC,Other,55.0000,25.0000,0.0094
+INT0134,Lakeview Avenue and 2nd Street,Lakeview Avenue,AV,RIV,City of Riverbend,Actuated,ATC 5201,CTL0134,ITE_POSTED_ONLY,Other,45.0000,25.0000,0.0164
+INT0135,Lakeview Avenue and Mill Street,Lakeview Avenue,KS,STB,City of Stonebridge,Actuated,NEMA TS2 Type 2,CTL0135,ITE_KINEMATIC,Other,40.0000,35.0000,0.0132
+INT0136,Station Avenue and Mill Street,Station Avenue,AV,HBP,Town of Harbor Point,Actuated,NEMA TS2 Type 1,CTL0136,ITE_KINEMATIC,Other,35.0000,35.0000,0.0200
+INT0137,Veterans Highway and Cedar Lane,Veterans Highway,AV,HBP,Town of Harbor Point,Actuated,NEMA TS2 Type 1,CTL0137,ITE_POSTED_ONLY,Other,55.0000,30.0000,0.0070
+INT0138,Station Avenue and Walnut Street,Station Avenue,AV,HBP,Town of Harbor Point,Pretimed,NEMA TS2 Type 1,CTL0138,ITE_KINEMATIC,Other,45.0000,25.0000,0.0051
+INT0139,Oak Hill Parkway and Maple Avenue,Oak Hill Parkway,AV,HBP,Town of Harbor Point,Pretimed,NEMA TS2 Type 2,CTL0139,ITE_KINEMATIC,Other,50.0000,30.0000,0.0229
+INT0140,Harbor Road and Ash Road,Harbor Road,AV,RIV,City of Riverbend,Actuated,NEMA TS2 Type 1,CTL0140,ITE_KINEMATIC,Other,50.0000,35.0000,0.0243
+INT0141,Meridian Road and Grove Street,Meridian Road,KS,NGT,City of Northgate,Coordinated,ATC 5201,CTL0141,LEGACY_FLAT,CBD,40.0000,35.0000,0.0192
+INT0142,Veterans Highway and Ash Road,Veterans Highway,AV,HBP,Town of Harbor Point,Pretimed,NEMA TS2 Type 2,CTL0142,ITE_KINEMATIC,Other,40.0000,35.0000,0.0214
+INT0143,Oak Hill Parkway and Mill Street,Oak Hill Parkway,AV,RIV,City of Riverbend,Actuated,NEMA TS2 Type 1,CTL0143,LEGACY_FLAT,Other,40.0000,40.0000,0.0119
+INT0144,Industrial Parkway and Forest Avenue,Industrial Parkway,KS,MLB,Village of Millbrook,Actuated,NEMA TS2 Type 1,CTL0144,ITE_POSTED_ONLY,Other,50.0000,25.0000,0.0191
+INT0145,Kingsway and 1st Street,Kingsway,KS,STB,City of Stonebridge,Coordinated,NEMA TS2 Type 1,CTL0145,LEGACY_FLAT,Other,55.0000,30.0000,0.0154
+INT0146,Oak Hill Parkway and Cedar Lane,Oak Hill Parkway,AV,RIV,City of Riverbend,Coordinated,NEMA TS2 Type 2,CTL0146,ITE_KINEMATIC,Other,50.0000,30.0000,0.0133
+INT0147,Airport Boulevard and Grove Street,Airport Boulevard,AV,RIV,City of Riverbend,Coordinated,NEMA TS2 Type 2,CTL0147,ITE_KINEMATIC,Other,50.0000,35.0000,0.0210
+INT0148,Harbor Road and Pine Avenue,Harbor Road,AV,RIV,City of Riverbend,Pretimed,NEMA TS2 Type 2,CTL0148,ITE_KINEMATIC,CBD,50.0000,30.0000,0.0143
+INT0149,Main Street and Willow Way,Main Street,KS,MLB,Village of Millbrook,Pretimed,ATC 5201,CTL0149,ITE_KINEMATIC,Other,50.0000,35.0000,0.0177
+INT0150,Market Street and School Street,Market Street,KS,NGT,City of Northgate,Actuated,ATC 5201,CTL0150,ITE_KINEMATIC,Other,50.0000,35.0000,0.0112
+INT0151,University Drive and 3rd Avenue,University Drive,AV,CDF,City of Cedar Falls,Actuated,NEMA TS2 Type 2,CTL0151,ITE_KINEMATIC,Other,50.0000,35.0000,0.0250
+INT0152,University Drive and Park Road,University Drive,KS,NGT,City of Northgate,Actuated,NEMA TS2 Type 2,CTL0152,LEGACY_FLAT,Other,50.0000,40.0000,0.0174
+INT0153,Station Avenue and Forest Avenue,Station Avenue,AV,CDF,City of Cedar Falls,Pretimed,NEMA TS2 Type 2,CTL0153,LEGACY_FLAT,Other,50.0000,40.0000,0.0083
+INT0154,Station Avenue and Pine Avenue,Station Avenue,AV,RIV,City of Riverbend,Coordinated,NEMA TS2 Type 1,CTL0154,ITE_KINEMATIC,Other,40.0000,40.0000,0.0207
+INT0155,Market Street and Willow Way,Market Street,AV,RIV,City of Riverbend,Actuated,ATC 5201,CTL0155,ITE_KINEMATIC,Other,50.0000,35.0000,0.0156
+INT0156,Airport Boulevard and Forest Avenue,Airport Boulevard,AV,RIV,City of Riverbend,Coordinated,NEMA TS2 Type 2,CTL0156,ITE_KINEMATIC,CBD,55.0000,25.0000,0.0069
+INT0157,Market Street and Forest Avenue,Market Street,AV,HBP,Town of Harbor Point,Coordinated,NEMA TS2 Type 1,CTL0157,ITE_KINEMATIC,Other,35.0000,35.0000,0.0226
+INT0158,Central Avenue and Church Street,Central Avenue,AV,CDF,City of Cedar Falls,Actuated,NEMA TS2 Type 2,CTL0158,LEGACY_FLAT,CBD,35.0000,30.0000,0.0120
+INT0159,Riverside Drive and 1st Street,Riverside Drive,KS,MLB,Village of Millbrook,Pretimed,NEMA TS2 Type 1,CTL0159,ITE_KINEMATIC,Other,40.0000,40.0000,0.0141
+INT0160,Airport Boulevard and Forest Avenue,Airport Boulevard,AV,CDF,City of Cedar Falls,Pretimed,NEMA TS2 Type 1,CTL0160,ITE_KINEMATIC,Other,50.0000,35.0000,0.0145
+INT0161,Meridian Road and School Street,Meridian Road,KS,MLB,Village of Millbrook,Coordinated,NEMA TS2 Type 2,CTL0161,ITE_POSTED_ONLY,Other,35.0000,40.0000,0.0248
+INT0162,Kingsway and School Street,Kingsway,KS,MLB,Village of Millbrook,Actuated,ATC 5201,CTL0162,ITE_KINEMATIC,Other,55.0000,30.0000,0.0247
+INT0163,University Drive and Park Road,University Drive,AV,HBP,Town of Harbor Point,Actuated,NEMA TS2 Type 1,CTL0163,LEGACY_FLAT,CBD,55.0000,35.0000,0.0058
+INT0164,Central Avenue and Grove Street,Central Avenue,KS,STB,City of Stonebridge,Coordinated,ATC 5201,CTL0164,LEGACY_FLAT,CBD,50.0000,35.0000,0.0158
+INT0165,Commerce Boulevard and Willow Way,Commerce Boulevard,AV,CDF,City of Cedar Falls,Actuated,ATC 5201,CTL0165,ITE_KINEMATIC,Other,55.0000,30.0000,0.0217
+INT0166,Airport Boulevard and School Street,Airport Boulevard,AV,CDF,City of Cedar Falls,Coordinated,ATC 5201,CTL0166,ITE_KINEMATIC,Other,55.0000,30.0000,0.0211
+INT0167,Lakeview Avenue and Birch Street,Lakeview Avenue,KS,MLB,Village of Millbrook,Coordinated,ATC 5201,CTL0167,ITE_POSTED_ONLY,CBD,45.0000,35.0000,0.0058
+INT0168,Main Street and Park Road,Main Street,AV,RIV,City of Riverbend,Coordinated,NEMA TS2 Type 1,CTL0168,ITE_POSTED_ONLY,Other,35.0000,30.0000,0.0149
+INT0169,Industrial Parkway and Elm Street,Industrial Parkway,KS,STB,City of Stonebridge,Coordinated,ATC 5201,CTL0169,ITE_KINEMATIC,Other,40.0000,30.0000,0.0088
+INT0170,Riverside Drive and Birch Street,Riverside Drive,AV,HBP,Town of Harbor Point,Pretimed,NEMA TS2 Type 1,CTL0170,LEGACY_FLAT,Other,45.0000,25.0000,0.0204

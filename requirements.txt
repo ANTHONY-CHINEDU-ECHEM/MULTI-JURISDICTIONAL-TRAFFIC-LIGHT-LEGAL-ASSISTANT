@@ -1,0 +1,12 @@
+numpy>=1.24
+pandas>=2.0
+pypdf>=4.0
+openpyxl>=3.1
+requests>=2.31
+beautifulsoup4>=4.12
+fastapi>=0.110
+uvicorn>=0.27
+pydantic>=2.5
+httpx>=0.26
+pytest>=7.4
+anthropic>=0.40
