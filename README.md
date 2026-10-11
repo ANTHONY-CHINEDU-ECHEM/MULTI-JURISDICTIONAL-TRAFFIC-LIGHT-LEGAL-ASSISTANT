@@ -74,7 +74,7 @@ The two states (Avalon and Kestrel) and six municipalities are fictional. Their 
 
 An Excel workbook (`data/processed/hcs_streets_export.xlsx`) mirrors the McTrans workflow with the full export, a scenario summary sheet and a clearance deficit sheet.
 
-<p align="center"><img src="docs/figures/fig01_dataset_volumes.png" alt="Dot plot of rows per table on a logarithmic scale, from 99,840 rows in signal_event_log down to 6 rows in jurisdiction_policy" width="920"></p>
+<p align="center"><img width="1220" height="624" alt="Screenshot 2026-10-11 at 18 38 38" src="https://github.com/user-attachments/assets/1de24d87-a70d-4db1-a687-7f228e83fd10" /></p>
 
 **Figure 1. Structured store volumes.** Rows per table on a logarithmic scale, with the column count and the grain of each table alongside.
 
@@ -112,7 +112,7 @@ Grades are stored as a magnitude plus an uphill, downhill or level label, and sh
 
 **Timing practice, not geography, is the dominant driver of clearance deficiencies.** Across the 1,360 lane groups in the 2023 timing plans, intersections timed with the full kinematic method under the governing policy show no yellow shortfall at all. Intersections timed to the posted speed only, ignoring an 85th percentile speed basis or a local speed adjustment, fall short on 72.8 percent of lane groups by an average of 0.38 s. Legacy flat timings (3.5 s through, 3.0 s left, 1.0 s red clearance) fall short on 82.2 percent of lane groups by an average of 0.79 s, and 77.6 percent of those lane groups also carry too little red clearance.
 
-<p align="center"><img src="docs/figures/fig02_timing_practice.png" alt="Three panel bar chart comparing full kinematic, posted speed only and legacy flat timing practices on yellow shortfall share, average yellow shortfall and red clearance shortfall share" width="920"></p>
+<p align="center"><img width="1202" height="487" alt="Screenshot 2026-10-11 at 18 43 10" src="https://github.com/user-attachments/assets/74f64cdf-3d07-4825-873f-0b15d9f7ac86" /></p>
 
 **Figure 2. Clearance deficiency by timing practice.** Share of lane groups with a yellow shortfall, the average size of that shortfall, and the share with a red clearance shortfall, for the 1,360 lane groups in the 2023 timing plans.
 
@@ -137,7 +137,7 @@ For a retiming programme the ranking follows directly. Legacy flat intersections
 
 **Jurisdiction changes the answer for identical hardware.** The same programmed yellow can be compliant in one city and deficient in the next. Kestrel requires timing to the measured 85th percentile speed, and 35.8 percent of its lane groups show a yellow shortfall against 25.6 percent in Avalon, which times to the posted limit. Local layers matter as well: Stonebridge requires 1.2 s of red clearance, so a 1.0 s red clearance that satisfies the Kestrel state minimum still fails locally. This is exactly the class of error that manual cross referencing tends to miss.
 
-<p align="center"><img src="docs/figures/fig03_jurisdiction_layers.png" alt="Two panel bar chart: yellow shortfall share of 35.8 percent in Kestrel against 25.6 percent in Avalon, and red clearance layers in Stonebridge where a programmed 1.0 s meets the state minimum but misses the 1.2 s local minimum" width="920"></p>
+<p align="center"><img width="1191" height="498" alt="Screenshot 2026-10-11 at 18 44 56" src="https://github.com/user-attachments/assets/22827fb8-b38d-428c-b2b3-5129040d1773" /></p>
 
 **Figure 3. Jurisdiction effects on the governing requirement.** Left: share of lane groups with a yellow shortfall by state. Right: the red clearance layers that apply in the City of Stonebridge, State of Kestrel.
 
@@ -162,7 +162,7 @@ Both panels illustrate the same rule from different directions: compliance is a 
 
 **Future demand erodes performance under existing timings.** Holding 2023 plans constant, the share of lane groups at LOS F rises from 12.2 percent in 2023 to 21.2 percent in 2030 and 28.5 percent in 2035. Mean control delay climbs from 53.0 s to 61.0 s to 69.9 s, and the share of lane groups whose back of queue exceeds available storage roughly doubles from 11.2 percent to 23.6 percent. This reproduces the scenario analysis the McTrans article describes and flags where retiming studies should begin.
 
-<p align="center"><img src="docs/figures/fig04_scenario_years.png" alt="Three line charts for scenario years 2023, 2030 and 2035 showing the LOS F share rising from 12.2 to 28.5 percent, mean control delay rising from 53.0 to 69.9 seconds and queue storage exceedance rising from 11.2 to 23.6 percent" width="920"></p>
+<p align="center"><img width="1219" height="511" alt="Screenshot 2026-10-11 at 18 46 53" src="https://github.com/user-attachments/assets/dba99188-035d-4c89-8a25-33fcd4f9d6ad" /></p>
 
 **Figure 4. Performance erosion under constant 2023 timing plans.** Share of lane groups at LOS F, mean control delay with the HCM signalized LOS thresholds, and share of lane groups whose back of queue exceeds storage.
 
@@ -229,7 +229,7 @@ Each of the three stages answers a specific failure mode of flat retrieval over 
 
 The governing yellow is `max(3.0 s MUTCD floor, ITE kinematic value, state minimum, local minimum, local high speed minimum)`, capped at the 6 s MUTCD guidance, where the ITE value is `t + v / (2a + 2Gg)` with the state's reaction time, deceleration and speed basis plus any local speed adjustment. When layers tie, the memo names every layer that governs.
 
-<p align="center"><img src="docs/figures/fig05_kinematic_requirement.png" alt="Line chart of the governing yellow change interval against clearance speed from 20 to 60 mph for a level approach with a band for 3 percent grades, bounded by the MUTCD 3 second floor and 6 second guidance, with crash CR00004 marked at 40.4 mph requiring 3.96 seconds against a programmed 3.5 seconds" width="920"></p>
+<p align="center"><img width="1207" height="654" alt="Screenshot 2026-10-11 at 18 48 41" src="https://github.com/user-attachments/assets/c804d8fe-0943-461c-97d8-a2442f085bcd" /></p>
 
 **Figure 5. Governing yellow change interval by clearance speed.** The ITE kinematic value on a level approach, with a band for 3 percent downhill and uphill grades, bounded by the MUTCD 3 s floor and 6 s guidance. Crash CR00004 is marked at its posted and 85th percentile speeds.
 
@@ -278,7 +278,7 @@ Governing red clearance: 1.2 s from local minimum (programmed 1.0 s).
 
 Each finding in the full memo is followed by quoted authority, for example MUTCD 11th Edition, Section 4F.17, Paragraph 03, Standard, page 708, then the Kestrel directive Clause 3.2 and the Stonebridge code Section 1.02. Each run writes two files to `artifacts/reports`: `CRxxxxx.md`, the readable memo, and `CRxxxxx.json`, which keeps every fact, check and evidence paragraph verbatim for preservation and expert review. The memo renders dash characters in quoted excerpts as spaces to keep the output dash free; set `TRAFFICLEGAL_VERBATIM_MEMO=1` to quote manuals exactly.
 
-<p align="center"><img src="docs/figures/fig06_cr00004_reconstruction.png" alt="Two panel reconstruction of crash CR00004: a timeline of the programmed and governing yellow and red clearance intervals with the stop line entry at 3.742 seconds and impact at 4.657 seconds after yellow onset, and a distance diagram placing the vehicle at 234.4 feet inside the dilemma zone of the programmed yellow" width="920"></p>
+<p align="center"><img width="1123" height="726" alt="Screenshot 2026-10-11 at 18 50 44" src="https://github.com/user-attachments/assets/e90136ab-087b-4106-a9fb-3463ccc5274f" /></p>
 
 **Figure 6. Crash CR00004 reconstructed in time and distance.** Upper panel: the displayed and governing clearance sequences against the recorded entry and impact times. Lower panel: the stopping, dilemma and clearing zones for a vehicle at 41.5 mph, with the vehicle position at yellow onset.
 
@@ -318,7 +318,7 @@ Run `python run.py benchmark`. Results on the shipped data (seed 20260930):
 
 Overall accuracy is 0.994. Accuracy is 1.000 for high confidence verdicts (82.7 percent of cases) and 0.967 for moderate confidence verdicts. The labels come from the same generator the evaluator was designed around, so this benchmark verifies that the reasoning is internally correct and well calibrated; it is not evidence of field accuracy.
 
-<p align="center"><img src="docs/figures/fig07_verdict_benchmark.png" alt="Two panel chart: benchmark crashes per verdict, and precision and recall per verdict with 95 percent Wilson intervals, where only red entry precision at 0.985 and yellow timing recall at 0.960 fall below 1.000" width="920"></p>
+<p align="center"><img width="1210" height="558" alt="Screenshot 2026-10-11 at 18 52 21" src="https://github.com/user-attachments/assets/9105350a-ebae-4c33-8173-0b25107b698f" /></p>
 
 **Figure 7. Verdict benchmark.** Support per verdict, and precision and recall with 95 percent Wilson score intervals. The score axis starts at 0.85 so that the intervals are legible.
 
@@ -344,7 +344,7 @@ Class balance does not flatter the result. The largest class, red entry with no 
 
 Retrieval is scored on 16 analyst style questions with known target sections in the MUTCD and NEMA TS 2: hit rate at 1 is 0.75, hit rate at 3 is 0.875 and mean reciprocal rank is 0.84. The section blend weight was chosen on this same question set, so treat these figures as optimistic and extend `RETRIEVAL_CASES` in `trafficlegal/benchmark.py` with held out questions before relying on them.
 
-<p align="center"><img src="docs/figures/fig08_calibration_retrieval.png" alt="Three panel chart: 430 high confidence and 90 moderate confidence verdicts, accuracy of 1.000 and 0.967 for the two tiers with Wilson intervals, and retrieval hit rate at 1 of 0.75, hit rate at 3 of 0.875 and mean reciprocal rank of 0.84" width="920"></p>
+<p align="center"><img width="1210" height="506" alt="Screenshot 2026-10-11 at 18 53 58" src="https://github.com/user-attachments/assets/4ee618e9-7063-489d-a21e-1143d06f798b" /></p>
 
 **Figure 8. Confidence calibration and retrieval quality.** Verdicts issued and accuracy by confidence tier, and the three retrieval metrics on the 16 question set. Whiskers are 95 percent Wilson score intervals.
 
