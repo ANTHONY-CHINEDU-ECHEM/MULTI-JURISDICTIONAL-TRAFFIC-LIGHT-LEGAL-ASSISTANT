@@ -1,5 +1,13 @@
 # Multi Jurisdictional Traffic Light Incident Legal Assistant AI
 
+<p align="center">
+<img width="740" height="493" alt="image" src="https://github.com/user-attachments/assets/c162d5bc-8c76-4677-8c0b-6606ceaa68fd" />
+</p>
+source: https://www.magnific.com/free-photos-vectors/red-traffic-light
+
+
+
+
 A hybrid structured and unstructured retrieval augmented generation (RAG) system that joins crash telemetry and millisecond controller logs with a hierarchical index of federal, state, local and hardware authority, then evaluates whether the yellow change and red clearance intervals met every governing requirement at the exact millisecond a vehicle crossed the stop line.
 
 ## Project Brief
